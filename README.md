@@ -1,5 +1,5 @@
-![banner](image/banner1)  
-![banner](image/banner2)
+![banner](image/banner1.png)  
+![banner](image/banner2.png)
 
 ### Hi there 👋
 Welcome!
