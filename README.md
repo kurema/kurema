@@ -7,4 +7,4 @@ Get my [models](https://github.com/kurema/Models).
 
 [Sponsor me!](https://github.com/sponsors/kurema/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kurema)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
