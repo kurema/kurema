@@ -8,3 +8,6 @@ Get my [models](https://github.com/kurema/Models).
 [Sponsor me!](https://github.com/sponsors/kurema/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurema&layout=compact)
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
