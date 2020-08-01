@@ -10,8 +10,6 @@
 ### YouTube
 <!-- YOUTUBE:START -->
 - [BookViewer 3: Open source e-reader for Windows 10](https://www.youtube.com/watch?v=rKCw_OlOKb8)
-- [【物理演算】火星](https://www.youtube.com/watch?v=1ZDDZ7CYr50)
-- [【物理演算】金星](https://www.youtube.com/watch?v=RfbYT1-Bg_o)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/kurema_makoto
