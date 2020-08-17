@@ -14,7 +14,8 @@ kuremaです。
 ## BookViewer 3
 [![banner](https://raw.githubusercontent.com/kurema/kurema/master/image/banner3.jpg)](https://github.com/kurema/BookViewerApp3)
 
-私が初めて作ったUWPアプリは[BookViewer](https://github.com/kurema/BookViewerApp)で、2020年8月時点で32,766回と一番使われているアプリです。本棚機能付きの電子書籍リーダーで、自分でも結構使っていました。ただ、色々古くなっていて改修したいと思っていたので、2020年頃別アプリとして[BookViewer3](https://github.com/kurema/BookViewerApp3)をリリースしました。これは本当にデザインがよくて使いやすいアプリなのでおすすめです。まだ追加したい機能がいくつかあるので今後も改良を続けていくつもりです(執筆時点)。
+私が初めて作ったUWPアプリは[BookViewer](https://github.com/kurema/BookViewerApp)で、2020年8月時点で32,766回と一番使われているアプリです。本棚機能付きの電子書籍リーダーで、自分でも結構使っていました。  
+ただ、色々古くなっていて改修したいと思っていたので、2020年頃別アプリとして[BookViewer3](https://github.com/kurema/BookViewerApp3)をリリースしました。これは本当にデザインがよくて使いやすいアプリなのでおすすめです。まだ追加したい機能がいくつかあるので今後も改良を続けていくつもりです(執筆時点)。
 
 ## RhinoArchitecturalLibrary
 ![banner](https://raw.githubusercontent.com/kurema/kurema/master/image/banner2.png)  
