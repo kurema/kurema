@@ -1,5 +1,5 @@
-kuremaです。
-まぁ色々作ってますが、一番使われてるのは[BookViewer](https://github.com/kurema/BookViewerApp3)というUWP(Windows 10のストアアプリ)の電子書籍リーダーですね。  
+kuremaです。  
+一番使われてるのは[BookViewer](https://github.com/kurema/BookViewerApp3)というUWP(Windows 10のストアアプリ)の電子書籍リーダーですね。  
 他にも色々作ってます。辞書変換系とか3D系とか。
 
 # About Me
