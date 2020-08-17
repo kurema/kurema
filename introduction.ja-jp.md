@@ -40,7 +40,7 @@
 
 Kindle Unlimitedの場合、閲覧したページ数に応じて収入が発生します。アフィリエイトの場合は、リンク先で購入した内容に応じ収入が発生します。
 
-## 仮想通貨
+## Cryptocurrency
 | Coin | Address |
 | -- | -- |
 | Bitcoin | 1FWJ3y5bVvrR2Km8ERauScxJaZugRDfYmP |
@@ -53,4 +53,4 @@ Kindle Unlimitedの場合、閲覧したページ数に応じて収入が発生�
 | StrongHands | SRv7XM6KeSmUayWaa3cagMvXBN46KtvGvD |
 | NEETCOIN | NgBaTgtXbUi3KWEe4BLA4zP1dSooGGzGFD |
 
-仮想通貨は滅多に確認しないので振り込んでも気付かないかもしれません。振り込んだ後には出来れば連絡をください。
+仮想通貨は滅多に確認しないので振り込んでも気付きません。振り込んだ後は出来ればご連絡ください。
