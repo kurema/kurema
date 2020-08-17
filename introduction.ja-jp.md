@@ -33,3 +33,24 @@
 | [MacDicConversion](https://github.com/kurema/MacDicConversion) | macOS搭載の辞書をEPWingに変換します。インデックス以外は解析して[ライブラリ](https://github.com/kurema/MacDictionaryGeneral)も作った。 |
 | [nicochcgi](https://github.com/nicocache/nicochcgi) | ニコニコチャンネルのキャッシュサーバー。毎日自動でダウンロードしてくれる(crontab)。ニコニコ動画の独自プレイヤーもあって割と手軽に組み込める。 |
 | [Models](https://github.com/kurema/Models) | 昔作った3Dモデル。高層ビルやらマンションやら。上のバナーはこれ。見た目が良いので。 |
+# Support
+他の方法でのサポートも可能です。Amazon.co.jpアソシエイト。
+* [Kindle](https://amzn.to/2jwHwLp)
+* [欲しいものリスト](https://amzn.to/347yycf)
+
+Kindle Unlimitedの場合、閲覧したページ数に応じて収入が発生します。アフィリエイトの場合は、リンク先で購入した内容に応じ収入が発生します。
+
+## 仮想通貨
+| Coin | Address |
+| -- | -- |
+| Bitcoin | 1FWJ3y5bVvrR2Km8ERauScxJaZugRDfYmP |
+| Monacoin | MKyRSGreKEdTtQB4RGpqC2tL7XfwiCbu7j |
+| BitZeny | Zpr7oFJ73uBo672iik39omQGqWVcFA5Vqx |
+| Sha1coin | SXd4npLg4upApgesrAVo4Uxx1nyCiTExEd |
+| NEM | NASZ44-PQMQGZ-I66EH7-U7BEIE-WCFMJQ-IAKQXQ-TMCI |
+| Ringo | RBLQydfVUVpjyFzXMPZChGp9hWNXSpRJYH |
+| Koto | k16pHN6m32Dj633okzVDqUezUAkMvfaiD4j |
+| StrongHands | SRv7XM6KeSmUayWaa3cagMvXBN46KtvGvD |
+| NEETCOIN | NgBaTgtXbUi3KWEe4BLA4zP1dSooGGzGFD |
+
+仮想通貨は滅多に確認しないので振り込んでも気付かないかもしれません。振り込んだ後には出来れば連絡をください。
