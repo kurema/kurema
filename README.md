@@ -14,3 +14,5 @@
 
 [twitter]: https://twitter.com/kurema_makoto
 [youtube]: https://www.youtube.com/channel/UCRXOgsw-LUdgPSN95myPw7g
+
+[More](https://github.com/sponsors/kurema) | [日本語](https://github.com/kurema/kurema/blob/master/introduction.ja-jp.md)
