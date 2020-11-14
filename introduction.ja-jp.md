@@ -31,7 +31,7 @@
 | [Evolution3d](https://github.com/kurema/Evolution3d) | 仮想世界で生物が進化していく実験です。dwango『ARTILIFE』のシンプル版。 ([YouTube](https://www.youtube.com/watch?v=1ZDDZ7CYr50)) |
 | [musicServerCgi](https://github.com/kurema/musicServerCgi) | Google Play Music風の音楽サーバー。昔ながらのCGI+Ajaxで作りました。 ([Demo](https://kurema.github.io/musicServerCgi/)). |
 | [MacDicConversion](https://github.com/kurema/MacDicConversion) | macOS搭載の辞書をEPWingに変換します。インデックス以外は解析して[ライブラリ](https://github.com/kurema/MacDictionaryGeneral)も作った。 |
-| [nicochcgi](https://github.com/nicocache/nicochcgi) | ニコニコチャンネルのキャッシュサーバー。毎日自動でダウンロードしてくれる(crontab)。ニコニコ動画の独自プレイヤーもあって割と手軽に組み込める。 |
+| [nicochcgi](https://github.com/kurema/nicochcgi_docker) | ニコニコチャンネルのキャッシュサーバー。毎日自動でダウンロードしてくれる(crontab)。ニコニコ動画の独自プレイヤーもあって割と手軽に組み込める。 |
 | [Models](https://github.com/kurema/Models) | 昔作った3Dモデル。高層ビルやらマンションやら。上のバナーはこれ。見た目が良いので。 |
 # Support
 他の方法でのサポートも可能です。Amazon.co.jpアソシエイト。
