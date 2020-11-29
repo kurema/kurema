@@ -12,6 +12,10 @@
 - [BookViewer 3: Open source e-reader for Windows 10](https://www.youtube.com/watch?v=rKCw_OlOKb8)
 <!-- YOUTUBE:END -->
 
+### Qiita
+<!-- QIITA:START -->
+<!-- QIITA:END -->
+
 [twitter]: https://twitter.com/kurema_makoto
 [youtube]: https://www.youtube.com/channel/UCRXOgsw-LUdgPSN95myPw7g
 
