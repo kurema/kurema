@@ -14,6 +14,8 @@
 
 ### Qiita
 <!-- QIITA:START -->
+- [DockerでCGI #1: EPWING電子辞書サーバー「let me see...」 (2003年)](https://qiita.com/kurema/items/88795f71448d39776e73)
+- [Docker buildでのSSL証明書エラー対処 【GitHub Actions】](https://qiita.com/kurema/items/85edb082b38a3ca87f32)
 <!-- QIITA:END -->
 
 [twitter]: https://twitter.com/kurema_makoto
