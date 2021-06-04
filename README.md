@@ -14,8 +14,8 @@
 
 ### Qiita
 <!-- QIITA:START -->
+- [root権限を取り返したい - イントラサーバー奮闘記録](https://qiita.com/kurema/items/8a57d42ed2ce0cb7ec33)
 - [【C#】 演算子のオーバーロードで遊ぶ](https://qiita.com/kurema/items/5a3456f9a32d08b1db74)
-- [【逆アセ】 C#でlongに代入してみる](https://qiita.com/kurema/items/90177242828af01f7c1d)
 <!-- QIITA:END -->
 
 [twitter]: https://twitter.com/kurema_makoto
