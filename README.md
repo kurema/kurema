@@ -9,7 +9,7 @@
 
 ### YouTube
 <!-- YOUTUBE:START -->
-- [BookViewer 3: Open source e-reader for Windows 10](https://www.youtube.com/watch?v=rKCw_OlOKb8)
+- [AnimatedIcon in WinUI 2.6](https://www.youtube.com/watch?v=LUUp_ChZ85E)
 <!-- YOUTUBE:END -->
 
 ### Qiita
