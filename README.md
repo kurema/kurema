@@ -9,7 +9,7 @@
 
 ### YouTube
 <!-- YOUTUBE:START -->
-- [AnimatedIcon in WinUI 2.6](https://www.youtube.com/watch?v=LUUp_ChZ85E)
+- [ステレオテスト: イヤホン左右確認ツール](https://www.youtube.com/watch?v=4K_icWsNJlY)
 <!-- YOUTUBE:END -->
 
 ### Qiita
