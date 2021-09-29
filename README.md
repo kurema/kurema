@@ -14,8 +14,8 @@
 
 ### Qiita
 <!-- QIITA:START -->
+- [GitHub ActionsでXamarin AndroidをReleaseビルド (ストア提出用)](https://qiita.com/kurema/items/becaf36dda27351e88cc)
 - [root権限を取り返したい - イントラサーバー奮闘記録](https://qiita.com/kurema/items/8a57d42ed2ce0cb7ec33)
-- [【C#】 演算子のオーバーロードで遊ぶ](https://qiita.com/kurema/items/5a3456f9a32d08b1db74)
 <!-- QIITA:END -->
 
 [twitter]: https://twitter.com/kurema_makoto
