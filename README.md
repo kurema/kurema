@@ -9,7 +9,7 @@
 
 ### YouTube
 <!-- YOUTUBE:START -->
-- [ステレオテスト: イヤホン左右確認ツール (Android) - イメージビデオ&チュートリアル](https://www.youtube.com/watch?v=4K_icWsNJlY)
+- [ステレオテスト: イヤホン左右確認ツール &lpar;Android&rpar; - イメージビデオ&amp;チュートリアル](https://www.youtube.com/watch?v=4K_icWsNJlY)
 <!-- YOUTUBE:END -->
 
 ### Qiita
