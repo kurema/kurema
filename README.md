@@ -14,8 +14,8 @@
 
 ### Qiita
 <!-- QIITA:START -->
+- [【計算と哲学】計算結果はあらかじめ決まっている？](https://qiita.com/kurema/items/4155c2349ecb093baf14)
 - [【計算と哲学】計算を数える困難さ](https://qiita.com/kurema/items/1a89043ece4abc86b16f)
-- [【計算と哲学】ビッグバン以前の世界？](https://qiita.com/kurema/items/a1d5ac89a0c06960c9c7)
 <!-- QIITA:END -->
 
 [twitter]: https://twitter.com/kurema_makoto
