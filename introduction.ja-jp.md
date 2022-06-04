@@ -23,6 +23,15 @@
 2017年ごろまで色々と3Dモデリング関係に携わっていました。その関係でAutoCAD、Rhinoceros、Grasshopperあたりは使えます。その頃作ったGrasshopper(RhinoSDK)用のライブラリが[RhinoArchitecturalLibrary](https://github.com/kurema/RhinoArchitecturalLibrary)です。ドールや樹木の生成機能、オブジェクト管理と書き出し機能、ヘルパーなど盛りだくさんです。  
 [CellTower](https://github.com/kurema/CellTower)はそのツールを使って開発した作品です。ファイル名とかアドホックなやり方とかに、エンジニアというよりデザイナーな面が見え隠れしますね。
 
+## Android Apps
+Androidアプリは基本Xamarin Formsで作っています。コストの関係でiOSには非対応です。
+
+| Repository | Google Play | Desciption |
+| -- | -- | -- |
+| [BDVideoLibraryManager](https://github.com/kurema/BDVideoLibraryManager) | [Google Play](https://play.google.com/store/apps/details?id=com.github.kurema.BDVideoLibraryManager) | BDレコーダーで録画した内容をスマホとPCで管理できるツール群です。 |
+| [WordbookImpressApp](https://github.com/kurema/WordbookImpressApp) | [Google Play](https://play.google.com/store/apps/details?id=com.github.kurema.WordbookImpressApp) | 単語帳アプリです。インプレスブックスの特典利用を目的に作りました。 |
+| [EarphoneLeftAndRightAndroid](https://github.com/kurema/EarphoneLeftAndRightAndroid) | [Google Play](https://play.google.com/store/apps/details?id=com.github.kurema.earphoneleftandright) | イヤホンの左右が分かりづらかったので作ったアプリ。Quick Settings Tile対応。Xamarin Android側にもかなり手を入れてる。 |
+
 ## Other stuffs
 ![banner](https://raw.githubusercontent.com/kurema/kurema/master/image/banner1.png)
 
