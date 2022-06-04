@@ -3,11 +3,11 @@
 他にも色々作ってます。辞書変換系とか3D系とか。
 
 # About Me
-* 使う言語は[基本C#ですね](https://github-readme-stats.vercel.app/api/top-langs/?username=kurema)。他にもPerlとか、携帯Basicって言語にはまってた時期もあります。
+* 使う言語は[基本C#](https://github-readme-stats.vercel.app/api/top-langs/?username=kurema)。他にもPerlとか、携帯Basicって言語にはまってた時期もあります。
 * プログラミングは2000年頃、N88-BASIC(86)で始めました。2000年頃使う言語じゃないだろって感じですが。HSPとかもあったな。
 * 使えるツール：Visual Studio, Inkscape, Paint.net, OpenShot, AutoCAD, Rhinoceros.
 * 日本在住の日本人男性です。そりゃそうですね。
-* 2012年に組んだSSDなしのPCを未だに使ってます。さすがにそろそろ買い換えますがご支援頂ければ嬉しい。
+* 2012年に組んだPCを未だに使ってます。さすがにそろそろ買い換えますがご支援頂ければ嬉しい。
 * オーストラリア・イタリア・インドに行ったことがあります。アメリカにも一度は行きたい。
 
 # Works
@@ -30,7 +30,7 @@ Androidアプリは基本Xamarin Formsで作っています。コストの関係
 | -- | -- | -- |
 | [BDVideoLibraryManager](https://github.com/kurema/BDVideoLibraryManager) | [Google Play](https://play.google.com/store/apps/details?id=com.github.kurema.BDVideoLibraryManager) | BDレコーダーで録画した内容をスマホとPCで管理できるツール群です。 |
 | [WordbookImpressApp](https://github.com/kurema/WordbookImpressApp) | [Google Play](https://play.google.com/store/apps/details?id=com.github.kurema.WordbookImpressApp) | 単語帳アプリです。インプレスブックスの特典利用を目的に作りました。 |
-| [EarphoneLeftAndRightAndroid](https://github.com/kurema/EarphoneLeftAndRightAndroid) | [Google Play](https://play.google.com/store/apps/details?id=com.github.kurema.earphoneleftandright) | イヤホンの左右が分かりづらかったので作ったアプリ。Quick Settings Tile対応。Xamarin Android側にもかなり手を入れてる。 |
+| [EarphoneLeftAndRightAndroid](https://github.com/kurema/EarphoneLeftAndRightAndroid) | [Google Play](https://play.google.com/store/apps/details?id=com.github.kurema.earphoneleftandright) | イヤホンの左右が分かりづらかったので作ったアプリ。Quick Settings Tile対応。<br />Xamarin Android側にもかなり手を入れてる。 |
 
 ## Other stuffs
 ![banner](https://raw.githubusercontent.com/kurema/kurema/master/image/banner1.png)
@@ -40,7 +40,7 @@ Androidアプリは基本Xamarin Formsで作っています。コストの関係
 | [Evolution3d](https://github.com/kurema/Evolution3d) | 仮想世界で生物が進化していく実験です。dwango『ARTILIFE』のシンプル版。 ([YouTube](https://www.youtube.com/watch?v=1ZDDZ7CYr50)) |
 | [musicServerCgi](https://github.com/kurema/musicServerCgi) | Google Play Music風の音楽サーバー。昔ながらのCGI+Ajaxで作りました。 ([Demo](https://kurema.github.io/musicServerCgi/)). |
 | [MacDicConversion](https://github.com/kurema/MacDicConversion) | macOS搭載の辞書をEPWingに変換します。インデックス以外は解析して[ライブラリ](https://github.com/kurema/MacDictionaryGeneral)も作った。 |
-| [nicochcgi](https://github.com/kurema/nicochcgi_docker) | ニコニコチャンネルのキャッシュサーバー。毎日自動でダウンロードしてくれる(crontab)。ニコニコ動画の独自プレイヤーもあって割と手軽に組み込める。 |
+| [nicochcgi](https://github.com/kurema/nicochcgi_docker) | ニコニコチャンネルのキャッシュサーバー。毎日自動でダウンロードしてくれる(crontab)。<br />ニコニコ動画の独自プレイヤーもあって割と手軽に組み込める。 |
 | [Models](https://github.com/kurema/Models) | 昔作った3Dモデル。高層ビルやらマンションやら。上のバナーはこれ。見た目が良いので。 |
 # Support
 他の方法でのサポートも可能です。Amazon.co.jpアソシエイト。
