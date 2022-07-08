@@ -9,7 +9,7 @@
 
 ### YouTube
 <!-- YOUTUBE:START -->
-- [Stereo Test: Quick Settings Tile &lpar;Android App&rpar; - What&#39;s new in v1.4.0](https://www.youtube.com/watch?v=caghICFa8lk)
+- [Stereo Test Tile &lpar;Android App&rpar; - What&#39;s new in v1.5.1](https://www.youtube.com/watch?v=BiDiPcS8y50)
 <!-- YOUTUBE:END -->
 
 ### Qiita
