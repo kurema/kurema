@@ -9,7 +9,7 @@
 
 ### YouTube
 <!-- YOUTUBE:START -->
-- [Stereo Test Tile &lpar;Android App&rpar; - What&#39;s new in v1.5.1](https://www.youtube.com/watch?v=BiDiPcS8y50)
+- [BookViewer 3 - Screenshot](https://www.youtube.com/watch?v=grmwN_ifnJE)
 <!-- YOUTUBE:END -->
 
 ### Qiita
