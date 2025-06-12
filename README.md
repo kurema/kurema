@@ -9,7 +9,7 @@
 
 ### YouTube
 <!-- YOUTUBE:START -->
-- [BookViewer 3 - Screenshot](https://www.youtube.com/watch?v=grmwN_ifnJE)
+- [BookViewer 3 - Screenshot](https://www.youtube.com/shorts/grmwN_ifnJE)
 <!-- YOUTUBE:END -->
 
 ### Qiita
